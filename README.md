@@ -73,9 +73,7 @@ Customer shopping dataset collected from a structured data source.
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
